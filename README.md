@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trentonagreen
+- 👋 Hi, I’m @trentonagreen aka C++ and Shaders
 - 👀 I’m interested in ... C++ and Shaders
 - 🌱 I’m currently learning ... advanced C++ and Shaders
 - 💞️ I’m looking to collaborate on ... C++ and Shaders
