@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... C++ and Shaders
 - 🌱 I’m currently learning ... advanced C++ and Shaders
 - 💞️ I’m looking to collaborate on ... C++ and Shaders
-- 📫 How to reach me ... 
+- 📫 How to reach me ... C++ and Shaders
 
 <!---
 trentonagreen/trentonagreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
